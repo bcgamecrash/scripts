@@ -1,0 +1,2 @@
+# scripts
+Crash Game Scripts
